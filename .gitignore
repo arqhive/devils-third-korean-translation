@@ -1,0 +1,27 @@
+# 원본 롬(복호화 폴더)
+Devils Third */
+# 원문 추출물·그림·빌드 산출물
+work/extract/
+work/build/
+work/release/
+work/survey/
+*.png
+*.xxx
+*.upk
+*.tfc
+*.bk2
+__pycache__/
+
+# 조사 출력
+work/extract/
+*.gfx
+tools/fonts/
+work/translation/src/
+work/translation/*notes*.json
+work/translation/out/*.notes.json
+work/review/
+work/review2/
+work/review3/
+work/review4/
+work/retr5/
+work/retr6/

@@ -1,0 +1,13 @@
+[
+ "DT_Game_Generic|ButtonLabels|ConfirmButton",
+ "UnlockGore|Menus|Gore",
+ "UnlockGore|Menus|Disabled",
+ "UnlockGore|Menus|Enabled",
+ "DT_UI_Pause|Menus|Enbaku",
+ "DT_UI_Pause|Menus|Score",
+ "DT_Weapons|NormalWeapons|Id_230",
+ "DT_Weapons|Ammo_Labels|NoAmmo",
+ "DT_Weapons|Ammo_Labels|FullAmmo",
+ "DT_CollectItems|Labels|LQ_06",
+ "DT_CollectItems|Labels|LQ_09"
+]
