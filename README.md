@@ -5,6 +5,8 @@
 
 **제작: arqhive** · **최신 버전: [v1.0f](../../releases/tag/v1.0f)**
 
+**소개 페이지: [arqhive 한글 패치 아카이브](https://arqhive.vercel.app/korean-translation/devils-third)**
+
 - 솔로 플레이의 자막, 임무 목표, 메뉴, 설명문, 수집품 설명, 팁을 한글화했습니다.
 - 자막과 메뉴에 한글 글꼴(넥슨 워헤이븐)을 넣었습니다.
 - 온라인 멀티플레이 전용 문구는 번역하지 않았습니다.
